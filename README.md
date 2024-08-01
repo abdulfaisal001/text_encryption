@@ -11,7 +11,7 @@ This project is aimed at enhancing data protection through text encryption using
 - **RSA Encryption:** Implements Rivest-Shamir-Adleman (RSA) algorithm for asymmetric encryption.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your_username/cybersecurity-text-encryption.git`
+1. Clone the repository: `git clone [(https://github.com/abdulfaisal001/text_encryption).git]
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
